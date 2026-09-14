@@ -6,4 +6,7 @@ I'm a computer science student passionate about designing and coding and computi
 -**Currently Learning**: Java, SQL databases
 -**Tools**: VS Code, Git, GitHub
 
+## Current Projects
+- Building coding projects to solve set objectives and strict protocols
+- Creating a personal portfolio to showcase my skills
 
