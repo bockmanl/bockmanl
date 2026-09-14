@@ -1,4 +1,3 @@
-
 # Hey there, I'm Logan
 I'm a computer science student passionate about designing and coding and computing solutions to solve problems. Currently working on expanding my coding language repository and am excited to solve new problems.
 
@@ -18,4 +17,6 @@ I'm a computer science student passionate about designing and coding and computi
 ## Fun Facts About Me
 - I'm a collegiate football player.
 - Rooting for the Vikings to win a Super Bowl!
+- Pepsi is better than Coke.
+
 
