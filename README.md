@@ -10,3 +10,6 @@ I'm a computer science student passionate about designing and coding and computi
 - Building coding projects to solve set objectives and strict protocols
 - Creating a personal portfolio to showcase my skills
 
+## Contact
+-**LinkedIn**: [Logan Bockman] (https://www.linkedin.com/in/logan-bockman-665469400/)
+-**Email**: bockmanl@csp.edu
