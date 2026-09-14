@@ -17,3 +17,4 @@ I'm a computer science student passionate about designing and coding and computi
 ## Fun Facts About Me
 - I'm a collegiate football player.
 - Rooting for the Vikings to win a Super Bowl!
+
